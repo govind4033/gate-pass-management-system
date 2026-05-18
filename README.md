@@ -33,7 +33,7 @@ The **Gate Pass Management System** is a web-based application developed to effi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/rohan-takmoge/Gate-Pass-management-System.git
+   git clone https://github.com/govind4033/Gate-Pass-management-System.git
    cd Gate-Pass-management-System
    ```
 
@@ -62,21 +62,6 @@ The **Gate Pass Management System** is a web-based application developed to effi
 3. **Exporting Data**
    - Export visitor and Local OD data to Excel for reporting purposes using the Export to Excel functionality.
 
-## 📸 Screenshots
-![Screenshot (39)](https://github.com/user-attachments/assets/bc93cabf-88f5-4a8a-852a-b9eacaa20d94)
-
-### Visitor Entry
-
-![Screenshot (43)](https://github.com/user-attachments/assets/df93a96a-36ed-4f9d-a6f6-fe44644191c0)
-![Screenshot (44)](https://github.com/user-attachments/assets/dcb02b8b-1a67-40aa-9281-3560628cda90)
-![Screenshot (45)](https://github.com/user-attachments/assets/0926dce8-9893-426d-9453-8017bc05271d)
-
-
-### Local OD Management
-
-![Screenshot (40)](https://github.com/user-attachments/assets/a68fde0d-4816-4e28-9c76-f55da27c08b4)
-![Screenshot (41)](https://github.com/user-attachments/assets/7688c5dc-5a76-4e07-87d3-a887707bc8d9)
-![Screenshot (42)](https://github.com/user-attachments/assets/2942917a-de9c-403a-a8ab-df761de7a30e)
 
 ## 🤝 Contributing
 
@@ -87,7 +72,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - **Guide**: Mr. Kiran Chougule, Asst. General Manager-IT, Ashoka Buildcon Limited
 - **Project by**: Rohan Rahul Takmoge
 - 
-## 📬 Contact  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rohan-takmoge-141b52251/) or [Email](mailto:rohantakmoge19@gmail.com).
 
 # 🙏🏻 Thanks For Visiting !!!
